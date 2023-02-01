@@ -1,5 +1,5 @@
 # tailwind-basics
-exploration of tailwind capabilities
+Exploration of tailwindcss capabilities
 
 # Tutorial used:
-**[Tailwind CSS Full Course](https://youtu.be/lCxcTsOHrjo)**.
+**[Tailwind CSS Full Course](https://youtu.be/lCxcTsOHrjo)**
